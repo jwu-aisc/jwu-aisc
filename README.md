@@ -1,4 +1,5 @@
-#  jwu-aisc
+# Jonathan Wu
+# About ME and Projects
 
 > **Architecting AI-driven Integrated Supply Chain Systems.**
 > Bridging the gap between high-level logistics logic and local LLM execution.
