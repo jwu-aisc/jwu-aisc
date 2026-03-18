@@ -32,8 +32,8 @@
 ---
 
 ### 📬 Connect
-- **LinkedIn:** [linkedin.com/in/jwu-aisc](https://www.linkedin.com/in/jwu-aisc)
-- **Email:** `jwu.aisc@gmail.com`
+- **LinkedIn:** [https://www.linkedin.com/in/jwu-io/]
+- **Email:** `jwu385@ucr.edu`
 
 
 <!--
